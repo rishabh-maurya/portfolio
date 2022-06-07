@@ -7,10 +7,10 @@ const Footer = () => {
   return (
     <footer className='bg-primary px-10 py-16'>
       <ul className='flex justify-center items-center md:flex-row sm:flex-row sm:gap-5 flex-col md:gap-10 gap-2 flex-wrap'>
+        <li><a className='text-bgColor font-medium' href="#">Home</a></li>
         <li><a className='text-bgColor font-medium' href="#about">About</a></li>
         <li><a className='text-bgColor font-medium' href="#skills">Skills</a></li>
         <li><a className='text-bgColor font-medium' href="#projects">Projects</a></li>
-        <li><a className='text-bgColor font-medium' href="#">Home</a></li>
         <li><a className='text-bgColor font-medium' href="#contact">Contact</a></li>
       </ul>
 
