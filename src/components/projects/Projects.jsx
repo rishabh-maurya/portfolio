@@ -8,8 +8,8 @@ const Projects = () => {
       name: 'Portfolio Website',
       img: 'https://cdn.pixabay.com/photo/2017/01/29/13/21/mobile-devices-2017981_960_720.png',
       tech: ['React.js', 'Tailwind CSS'],
-      githubLink: 'https://github.com/rishabh-maurya/to-do-list',
-      projectLink: 'https://rishabh-maurya.github.io/to-do-list/'
+      githubLink: 'https://github.com/rishabh-maurya/portfolio',
+      projectLink: 'https://rishabhmaurya-portfolio.netlify.app/'
     },
     {
       name: 'Todo List',
