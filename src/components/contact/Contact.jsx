@@ -16,7 +16,7 @@ const Contact = () => {
         <div className='flex flex-wrap justify-center items-center gap-10'>
           <div className=''>
             <ContactOption Icon={FiMail} title='Email' source='mauryarishabh559@gmail.com' link="mailto:mauryarishabh559@gmail.com" />
-            <ContactOption Icon={BsWhatsapp} title='Whatsapp' source='9670872912' link='https://wa.me/9670872912?text=Hello, Rishabh 👋' />
+            <ContactOption Icon={BsWhatsapp} title='Whatsapp' source='9670872912' link='https://wa.me/+919670872912?text=Hello, Rishabh 👋' />
           </div>
 
           <div className='mx-auto'>
